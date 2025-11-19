@@ -207,4 +207,4 @@ Depois abra: http://localhost:8080
 
 ---
 
-Bom estudo e boa prática com Micro Frontends! 🚀
+
